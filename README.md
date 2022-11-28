@@ -3,6 +3,11 @@ This repository contains the materials of the short course [An Introduction to T
 
 Host organizer: [Idiap Research Institute](https://www.idiap.ch)
 
+## Lecturers 
+- [Sina Sajadmanesh](https://sajadmanesh.com)
+- [Ali Shahin Shamsabadi](https://alishahin.github.io)
+- [Daniel Gatica Perez](https://www.idiap.ch/~gatica/)
+
 ## Course Content
 - Day 1
   - Introduction to privacy and personal data
@@ -15,9 +20,4 @@ Host organizer: [Idiap Research Institute](https://www.idiap.ch)
   - Defenses against adversarial examples
   - Adversarial examples for privacy protection
   - Hands-on tutorial
-
-## Lecturers 
-- [Sina Sajadmanesh](https://sajadmanesh.com)
-- [Ali Shahin Shamsabadi](https://alishahin.github.io)
-- [Daniel Gatica Perez](https://www.idiap.ch/~gatica/)
 
